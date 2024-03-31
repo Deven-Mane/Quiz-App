@@ -16,4 +16,6 @@ Quiz App made using HTML, CSS, & JS
 
 • You have 'Retake Quiz' option available at the end.
 
+Demo : https://deven-mane.github.io/Quiz-App/
+
 Key: 11223344
